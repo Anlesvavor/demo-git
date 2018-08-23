@@ -1,0 +1,3 @@
+*.ts
+.DS_STORE
+/bin
